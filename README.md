@@ -1,1 +1,1 @@
-[[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joa1003/my-first-binder.git/HEAD)# my-first-binder](https://hub.2i2c.mybinder.org/user/joa1003-my-first-binder-kkkqt0br/lab/tree/Untitled.ipynb)
+[[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joa1003/my-first-binder.git/HEAD)
